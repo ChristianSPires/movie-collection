@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="todos_os_filmes">
+        <item>@string/a_freira</item>
+        <item>@string/jogos_mortais</item>
+        <item>@string/a_hora_do_pesadelo</item>
+        <item>@string/ilha_do_medo</item>
+        <item>@string/parasita</item>
+        <item>@string/um_lugar_silencioso</item>
+        <item>@string/clube_da_luta</item>
+        <item>@string/bastardos_inglorios</item>
+        <item>@string/planeta_dos_macacos_a_origem</item>
+        <item>@string/vingadores_ultimato</item>
+        <item>@string/de_volta_para_o_futuro</item>
+        <item>@string/matrix</item>
+    </string-array>
+
+    <string-array name="categoria">
+        <item>@string/terror</item>
+        <item>@string/suspense</item>
+        <item>@string/acao</item>
+        <item>@string/ficcao_cientifica</item>
+    </string-array>
+
+    <string-array name="duracao">
+        <item>@string/duracao_a_freira</item>
+        <item>@string/duracao_jogos_mortais</item>
+        <item>@string/duracao_a_hora_do_pesadelo</item>
+        <item>@string/duracao_ilha_do_medo</item>
+        <item>@string/duracao_parasita</item>
+        <item>@string/duracao_um_lugar_silencioso</item>
+        <item>@string/duracao_clube_da_luta</item>
+        <item>@string/duracao_bastardos_inglorios</item>
+        <item>@string/duracao_planeta_dos_macacos_a_origem</item>
+        <item>@string/duracao_vingadores_ultimato</item>
+        <item>@string/duracao_de_volta_para_o_futuro</item>
+        <item>@string/duracao_matrix</item>
+    </string-array>
+
+    <string-array name="descricao">
+        <item>@string/descricao_a_freira</item>
+        <item>@string/descricao_jogos_mortais</item>
+        <item>@string/descricao_a_hora_do_pesadelo</item>
+        <item>@string/descricao_ilha_do_medo</item>
+        <item>@string/descricao_parasita</item>
+        <item>@string/descricao_um_lugar_silencioso</item>
+        <item>@string/descricao_clube_da_luta</item>
+        <item>@string/descricao_bastardos_inglorios</item>
+        <item>@string/descricao_planeta_dos_macacos_a_origem</item>
+        <item>@string/descricao_vingadores_ultimato</item>
+        <item>@string/descricao_de_volta_para_o_futuro</item>
+        <item>@string/descricao_matrix</item>
+    </string-array>
+
+
+
+
+
+
+
+    <string-array name="categoria_terror">
+        <item>@string/a_freira</item>
+        <item>@string/jogos_mortais</item>
+        <item>@string/a_hora_do_pesadelo</item>
+    </string-array>
+
+    <string-array name="duracao_terror">
+        <item>@string/duracao_a_freira</item>
+        <item>@string/duracao_jogos_mortais</item>
+        <item>@string/duracao_a_hora_do_pesadelo</item>
+    </string-array>
+
+    <string-array name="descricao_terror">
+        <item>@string/descricao_a_freira</item>
+        <item>@string/descricao_jogos_mortais</item>
+        <item>@string/descricao_a_hora_do_pesadelo</item>
+    </string-array>
+
+    <string-array name="categoria_suspense">
+        <item>@string/ilha_do_medo</item>
+        <item>@string/parasita</item>
+        <item>@string/um_lugar_silencioso</item>
+    </string-array>
+
+    <string-array name="duracao_suspense">
+        <item>@string/duracao_ilha_do_medo</item>
+        <item>@string/duracao_parasita</item>
+        <item>@string/duracao_um_lugar_silencioso</item>
+    </string-array>
+
+    <string-array name="descricao_suspense">
+        <item>@string/descricao_ilha_do_medo</item>
+        <item>@string/descricao_parasita</item>
+        <item>@string/descricao_um_lugar_silencioso</item>
+    </string-array>
+
+    <string-array name="categoria_acao">
+        <item>@string/clube_da_luta</item>
+        <item>@string/bastardos_inglorios</item>
+        <item>@string/planeta_dos_macacos_a_origem</item>
+    </string-array>
+
+    <string-array name="duracao_acao">
+        <item>@string/duracao_clube_da_luta</item>
+        <item>@string/duracao_bastardos_inglorios</item>
+        <item>@string/duracao_planeta_dos_macacos_a_origem</item>
+    </string-array>
+
+    <string-array name="descricao_acao">
+        <item>@string/descricao_clube_da_luta</item>
+        <item>@string/descricao_bastardos_inglorios</item>
+        <item>@string/descricao_planeta_dos_macacos_a_origem</item>
+    </string-array>
+
+    <string-array name="categoria_ficcao_cientifica">
+        <item>@string/vingadores_ultimato</item>
+        <item>@string/de_volta_para_o_futuro</item>
+        <item>@string/matrix</item>
+    </string-array>
+
+    <string-array name="duracao_ficcao_cientifica">
+        <item>@string/duracao_vingadores_ultimato</item>
+        <item>@string/duracao_de_volta_para_o_futuro</item>
+        <item>@string/duracao_matrix</item>
+    </string-array>
+
+    <string-array name="descricao_ficcao_cientifica">
+        <item>@string/descricao_vingadores_ultimato</item>
+        <item>@string/descricao_de_volta_para_o_futuro</item>
+        <item>@string/descricao_matrix</item>
+    </string-array> -->
+
+</resources>

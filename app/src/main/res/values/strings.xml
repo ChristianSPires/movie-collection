@@ -1,0 +1,122 @@
+<resources>
+
+    <!-- Títulos -->
+    <string name="app_name">Film Collection</string>
+    <string name="categorias">Categories</string>
+    <string name="filmes">Movie Name</string>
+
+    <!-- Categorias de Filmes-->
+    <string name="terror">Horror</string>
+    <string name="suspense">Thriller</string>
+    <string name="acao">Action</string>
+    <string name="ficcao_cientifica">Sci-Fi</string>
+
+    <!-- Nomes de Filmes de Terror-->
+    <string name="a_freira">The Nun 2</string>
+    <string name="jogos_mortais">Saw</string>
+    <string name="a_hora_do_pesadelo">A Nightmare on Elm Street</string>
+
+    <!-- Duração dos Filmes de Terror-->
+    <string name="duracao_a_freira">1h 36min</string>
+    <string name="duracao_jogos_mortais">1h 40min</string>
+    <string name="duracao_a_hora_do_pesadelo">1h 31min</string>
+
+    <!-- Descrição de Filmes de Terror-->
+    <string name="descricao_a_freira">A girl kills herself in the covenant and the Vatican decides to send a priest and a sister (I don\'t know if it\'s his sister or whose sister) to investigate what happened instead of detectives.</string>
+    <string name="descricao_jogos_mortais">The salt mine digger (Jigsaw) kidnaps people who don\'t value life and makes them play a game (old generation Squid Games).</string>
+    <string name="descricao_a_hora_do_pesadelo">Fred Nuggets dressed in his Christmas sweater, farmhand hat and back-scratching glove starts chasing children in their dreams.</string>
+
+    <!-- Nomes de Filmes de Suspense-->
+    <string name="ilha_do_medo">Shutter Island</string>
+    <string name="parasita">Parasite</string>
+    <string name="um_lugar_silencioso">A Quiet Place</string>
+
+    <!-- Duração dos Filmes de Suspense-->
+    <string name="duracao_ilha_do_medo">2h 18min</string>
+    <string name="duracao_parasita">2h 12min</string>
+    <string name="duracao_um_lugar_silencioso">1h 30min</string>
+
+    <!-- Descrição de Filmes de Suspense-->
+    <string name="descricao_ilha_do_medo">After a traumatic past, Leonardo DiCaprio, who currently works as a detective, goes to a psychiatric prison together with Mark Ruffalo, where they form the Scooby Doo group to unravel the mystery behind a disappearance.</string>
+    <string name="descricao_parasita">The main family in this film is like a secretary and a company director, you think you have nothing until someone gets a raise.</string>
+    <string name="descricao_um_lugar_silencioso">It\'s incredible to think that aliens have developed super speed, super perception, super strength, but are blind.</string>
+
+    <!-- Nomes de Filmes de Ação-->
+    <string name="clube_da_luta">Fight Club</string>
+    <string name="bastardos_inglorios">Inglourious Basterds</string>
+    <string name="planeta_dos_macacos_a_origem">Rise of the Planet of the Apes</string>
+
+    <!-- Duração dos Filmes de Ação-->
+    <string name="duracao_clube_da_luta">2h 19min</string>
+    <string name="duracao_bastardos_inglorios">2h 33min</string>
+    <string name="duracao_planeta_dos_macacos_a_origem">1h 45min</string>
+
+    <!-- Descrição de Filmes de Suspense-->
+    <string name="descricao_clube_da_luta">Before V for Vendetta, there was this film. The difference is that in this one you philosophize while you are being beaten.</string>
+    <string name="descricao_bastardos_inglorios">If you only knew what 3 fingers could do to a group of people.</string>
+    <string name="descricao_planeta_dos_macacos_a_origem">Emperor Caesar is reincarnated in the body of a monkey and sets out in search of his lost territory leading the entire race of apes.</string>
+
+    <!-- Nomes de Filmes de Ficção Científca-->
+    <string name="vingadores_ultimato">Avengers: Endgame</string>
+    <string name="de_volta_para_o_futuro">Back to the Future</string>
+    <string name="matrix">Matrix</string>
+
+    <!-- Duração dos Filmes de Ficção Científica-->
+    <string name="duracao_vingadores_ultimato">3h 01min</string>
+    <string name="duracao_de_volta_para_o_futuro">1h 56min</string>
+    <string name="duracao_matrix">2h 15min</string>
+
+    <!-- Descrição de Filmes de Ficção Científica-->
+    <string name="descricao_vingadores_ultimato">The purple man finally gets a motorcycle courier glove with one finger of each color.</string>
+    <string name="descricao_de_volta_para_o_futuro">It was supposed to be just a split, but it ended up getting stuck in the 50s.</string>
+    <string name="descricao_matrix">Neo discovers that his life is a mix of code and kung fu, as he flees through the city inhabited only by MIB agents who try to kill him.</string>
+
+    <string name="detalhes_categoria">Categorie: %s</string>
+    <string name="detalhes_duracao">Duration: %s</string>
+    <string name="mensagem_filme_clicado">Movie clicked: %s %s %s</string>
+    <string name="categoria_label">"Categorie: "</string>
+    <string name="duracao_label">"Duration: "</string>
+
+
+    <!-- Utilizados na primeira entrega-->
+    <string name="adicionar_a_lista_de">Add to list</string>
+    <string name="assistidos">Watched</string>
+    <string name="em_andamento">In Progress</string>
+    <string name="desejados">Desired</string>
+    <string name="salvar">Save</string>
+    <string name="limpar">Clean</string>
+    <string name="avaliacao_comentario">Rating/Comment</string>
+    <string name="favoritos">Favorites</string>
+    <string name="favorito">Favorite:</string>
+    <string name="selecoes_limpas">Cleared selections</string>
+    <string name="filme_salvo_com_sucesso">Movie saved successfully</string>
+    <string name="filme_presente_na_lista">The movie is already in the selected list</string>
+    <string name="favor_selecionar_lista">Please select a list</string>
+    <string name="favor_adicionar_avaliacao">Please add a review</string>
+    <string name="adicionar">Add</string>
+    <string name="sobre">About</string>
+    <string name="christian_de_souza_pires" translatable="false">Christian de Souza Pires</string>
+    <string name="christian_email" translatable="false">christianpires@alunos.utfpr.edu.br</string>
+    <string name="objetivo_projeto">A principal goal of this application is to enable the user to filter movies according to their preferences by adding them to different lists, allowing the addition of descriptions and/or ratings.</string>
+    <string name="utfpr" translatable="false">Universidade Tecnológica Federal do Paraná</string>
+    <string name="esta_na_lista">"It's on the list: "</string>
+    <string name="detalhes">"Details: "</string>
+    <string name="cancelar">Cancel</string>
+    <string name="e">and</string>
+    <string name="lista_alterados">LISTA_ALTERADOS</string>
+    <string name="avaliacao_comentario2">"Rating/Comment: "</string>
+    <string name="adicionar_filme">Add Movie</string>
+    <string name="editar">Edit</string>
+    <string name="excluir">Delete</string>
+    <string name="novo_filme">New Movie</string>
+    <string name="editar_filme">Edit Movie</string>
+    <string name="favor_selecionar_lista_e_adicionar_avaliacao">Please add a Name, select List and add Assessment.</string>
+    <string name="ordenacao">Ordenação</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="tem_certeza_que_deseja_excluir_o_filme_selecionado">Are you sure you want to delete the selected movie?</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="favor_adicionar_nome_filme">Please add a Name</string>
+    <string name="categoria">Categorie:</string>
+
+</resources>
